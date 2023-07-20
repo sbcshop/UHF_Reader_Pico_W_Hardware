@@ -3,9 +3,9 @@
 In this github repo you will find Hardware design files for UHF Reader for Pico W
 
 ### Repository Contents:
-  - [/Design Data]() - This directory contains Schematic, Top and Bottom View
-  - [/Mechanical Data]() - This directory contains Dimension, 3D and STEP files
-  - [UHF Reader for Pico W Getting Started]() - This repo contains UHF Reader for Pico W Getting Started and Sample Codes.
+  - [/Design Data](https://github.com/sbcshop/UHF_Reader_Pico_W_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/UHF_Reader_Pico_W_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [UHF Reader for Pico W Getting Started](https://github.com/sbcshop/UHF_Reader_Pico_W_Software) - This repo contains UHF Reader for Pico W Getting Started and Sample Codes.
 
 ## Related Products
    * [UHF Reader for ESP32]() - ReadPi with 13.56MHz NFC reader/writer powered by Raspberry Pi Pico W
