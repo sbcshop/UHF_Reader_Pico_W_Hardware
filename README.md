@@ -1,6 +1,6 @@
 # UHF_Reader_Pico_W_Hardware
 <img src="https://cdn.shopify.com/s/files/1/1217/2104/files/DiscriptivebannerUHFReader_e60e9388-d82b-4252-b0c7-54cb48fd2b04.jpg?v=1690438714">
-In this github repo you will find Hardware design files for UHF Reader for Pico W
+In this GitHub repo, you will find Hardware design files of UHF Reader for Pico W.
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/UHF_Reader_Pico_W_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
